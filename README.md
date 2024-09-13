@@ -4,11 +4,11 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on WebSoft Technology Nepal Pvt. Ltd.
-- 🌱 I’m currently learning Flutter
-- 👯 I’m looking to collaborate on Yarsa
-- 🤔 I’m looking for help with Flutter Developer
-- 💬 Ask me about Laravel 
+- 🔭 I’m currently working on CrawlerHub
+- 🌱 I’m currently learning Next JS
+- 👯 I’m looking to collaborate on React Developer
+- 🤔 I’m looking for help with python
+- 💬 Ask me about Web Development 
 - 📫 How to reach me: surajadhikari0018@gmail.com
 
 - Find me on
