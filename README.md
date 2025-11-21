@@ -5,9 +5,9 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on CrawlerHub
-- 🌱 I’m currently learning Next JS
+- 🌱 I’m currently learning Svelte
 - 👯 I’m looking to collaborate on React Developer
-- 🤔 I’m looking for help with python
+- 🤔 I’m looking for help with text editor
 - 💬 Ask me about Web Development 
 - 📫 How to reach me: surajadhikari0018@gmail.com
 
