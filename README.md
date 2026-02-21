@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 ![trophy](https://github-profile-trophy-fork-two.vercel.app/?username=suraja18&theme=onedark)
 
+[![Suraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=suraja18)](https://github.com/suraja18/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suraja18&theme=merko&hide_progress=true)
 
