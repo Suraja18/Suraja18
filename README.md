@@ -16,7 +16,7 @@ Here are some ideas to get you started:
     [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/surajadhikari_18/)
 
 
-[![trophy](https://github-profile-trophy-fork-two.vercel.app/?username=suraja18&theme=onedark)]
+![trophy](https://github-profile-trophy-fork-two.vercel.app/?username=suraja18&theme=onedark)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suraja18&theme=merko&hide_progress=true)
